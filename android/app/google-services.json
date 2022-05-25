@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690588483925",
+    "project_id": "chequecadeau-fc310",
+    "storage_bucket": "chequecadeau-fc310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690588483925:android:c9ac2c55ca942385a5efdc",
+        "android_client_info": {
+          "package_name": "com.example.chequecadeau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690588483925-bejms7s2vfo4fif4e4319m7ln14hfd6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQAWOFkSNlbPWJP60cYM5ZjkRi9CezDVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690588483925-bejms7s2vfo4fif4e4319m7ln14hfd6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
